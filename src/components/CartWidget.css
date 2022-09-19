@@ -3,3 +3,8 @@
     width: 25px;
     height: 25px;
 }
+
+.shoppingCartQuantity {
+    color: white;
+    margin-left: 0.5rem;
+}

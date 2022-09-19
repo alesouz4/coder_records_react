@@ -4,6 +4,7 @@ const CartWidget = () => {
   return (
     <>
       <FiShoppingCart />
+      <span className="shoppingCartQuantity">0</span>
     </>
   );
 };
